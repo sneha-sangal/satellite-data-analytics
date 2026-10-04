@@ -1,0 +1,2 @@
+-- Satellite Data Analytics
+-- SQL analysis queries
